@@ -1,6 +1,6 @@
 # Cybersecurity 150 midterm Spring 2024
 
-## Sending a massage by whatsApp
+## Sending a massage by WhatsApp
 ESP32 Massage sending Program
 
 ## Purpose
@@ -15,14 +15,14 @@ Sending text massage with ESP32CAM to my phone number.
 - [Messaging with WhatsApp](https://randomnerdtutorials.com/esp32-send-messages-whatsapp/)
 
 ## Steps I followed
-1. I have added the given phone number in my whatsApp.
+1. I have added the given phone number in my WhatsApp.
 2. then I have written massage in the  massage option
-3. then I have  written the phone number and the API key that I have received from the whatsApp bot
+3. then I have  written the phone number and the API key that I have received from the WhatsApp bot
 4. connected the ESP-32 Cam with the computer by the cable
 5. upload that
 6. reset the button in the ESP32
 7. check in the monitor
-8. and I got massage in whatsApp describing "Hello from ESP 32!"
+8. and I got massage in WhatsApp describing "Hello from ESP 32!"
 
 ## Problems
 When I was connecting the ESP32 with the cable , it was not finding the device. We checked and later on found that the cable was normal charging cable not the data cable. We changed the cable to the data cable and It started working.
