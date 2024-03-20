@@ -26,3 +26,5 @@ Sending text massage with ESP32CAM to my phone number.
 
 ## Problems
 When I was connecting the ESP32 with the cable , it was not finding the device. We checked and later on found that the cable was normal charging cable not the data cable. We changed the cable to the data cable and It started working.
+## The screenshot of the final result
+[Picture](https://github.com/mdshafiqulbaten/CSN150-Midterm-Documentation/blob/main/Screenshot%202024-03-20%20145947.png)
