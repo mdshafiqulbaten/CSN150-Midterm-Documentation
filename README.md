@@ -1,10 +1,10 @@
-# Cybersecurity 150 midterm Spring 2024
+# Cybersecurity 150 final Spring 2024
 
-## Sending a massage by WhatsApp
-ESP32 Massage sending Program
+## ESP32 Beacon Spam
+ESP32 creating fake Access Point
 
 ## Purpose
-Sending text massage with ESP32CAM to my phone number.
+Creating fake Access point to confuse people and doing social engineering
 
 ## Equipment
 * [ESP32Cam](https://www.amazon.com/Aideepen-ESP32-CAM-Bluetooth-ESP32-CAM-MB-Arduino/dp/B08P2578LV/ref=sr_1_3?crid=4FY0ECFW0ZX7&keywords=ESP32+Cam&qid=1678902050&sprefix=esp32+cam%2Caps%2C240&sr=8-3)
