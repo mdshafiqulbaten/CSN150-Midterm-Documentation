@@ -24,7 +24,7 @@ Creating fake Access point to confuse people and doing social engineering
 7. Since there were no error checked the serial monitor which showed me that the packages were being sent.
 8. I checked my computer wifi connection list and found those fake wifi connection list in there.
 ## Problems
-1.When I was connecting the ESP32 with the cable , it was not finding the device. We checked and later on found that the cable was normal charging cable not the data cable. We changed the cable to the data cable and It started working.
+1. When I was connecting the ESP32 with the cable , it was not finding the device. We checked and later on found that the cable was normal charging cable not the data cable. We changed the cable to the data cable and It started working.
 
 2. Since the computer I was using was from the college, It had the firewall setting to not to accept the untrustworthy networks and that is why it was not showing the channels in that computer. When I changed the computer to a private computer, it worked.
 ## The screenshot of the final result
